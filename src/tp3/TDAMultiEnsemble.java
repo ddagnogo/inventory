@@ -6,7 +6,6 @@ package tp3;
 
 /**
  *
- * @author dognimedagnogo
  */
 public interface TDAMultiEnsemble<T> {
 

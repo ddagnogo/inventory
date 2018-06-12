@@ -6,7 +6,6 @@ package tp3;
 
 /**
  *
- * @author dognimedagnogo
  */
  public class ItemInventaire extends ItemBase {
 

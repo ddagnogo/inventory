@@ -3,11 +3,6 @@ package tp3;
 import java.util.ArrayList;
 
 /**
- * Nom: Dagnogo
- * Prenom: Dognime
- * Nom du professeur: Louise Laforest
- * Sigle de cours: INF2120
- * Groupe: 10
  *
  * @since Mars 2013
  */
